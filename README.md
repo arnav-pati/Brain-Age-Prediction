@@ -1,2 +1,3 @@
 # Brain-Age-Prediction
-Brain Age Prediction from EEG recordings
+Brain Age Prediction Challenge: https://codalab.lisn.upsaclay.fr/competitions/8336
+
